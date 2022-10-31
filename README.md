@@ -21,3 +21,9 @@ grpcio = "1.46.3"
 googleapis-common-protos = "1.54.0"
 protobuf = "3.18.1"
 ```
+## P4 build
+
+```
+cd l2_switch
+p4c --target bmv2 --arch v1model --p4runtime-files l2_switch.p4info.txt l2_switch.p4
+```
