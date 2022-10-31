@@ -1,0 +1,11 @@
+{
+  "author": "kytos",
+  "username": "kytos",
+  "name": "p4_l2ls",
+  "description": "P4 L2 learning switch",
+  "version": "1.0.0",
+  "napp_dependencies": [],
+  "license": "MIT",
+  "url": "",
+  "tags": []
+}
